@@ -1,0 +1,8 @@
+image: maze.png
+resolution: 0.05
+origin: [0.0, 0.0, 0.0]
+semantic_labels:
+    0xff0000: tile
+    0x00ff00: wood
+    0x0000ff: carpet
+
